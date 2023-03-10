@@ -6,7 +6,7 @@
     Mane Avoyan avoyan.mane@mail.ru
 
 # THANKS
-
+	All my students
     <name>
 
 # TECHNOLOGY COLOPHON
